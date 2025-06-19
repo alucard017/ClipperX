@@ -1,0 +1,6 @@
+[submodule "ClipperX-frontend"]
+	path = ClipperX-frontend
+	url = https://github.com/alucard017/ClipperX-frontend.git
+[submodule "ClipperX-backend"]
+	path = ClipperX-backend
+	url = https://github.com/alucard017/ClipperX-backend.git
