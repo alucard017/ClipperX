@@ -1,1 +1,3 @@
+
+git config pull.rebase true 
 git submodule update --remote --merge
